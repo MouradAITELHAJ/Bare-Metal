@@ -1,0 +1,6 @@
+../Src/main.c:9:6:delay	2
+../Src/main.c:15:5:main	1
+../Src/main.c:26:6:GPIOA_CONFIG	1
+../Src/main.c:33:6:ADC_CONFIG	3
+../Src/main.c:58:6:ADC_START_CONVERSION	1
+../Src/main.c:63:10:ADC_READ	2
